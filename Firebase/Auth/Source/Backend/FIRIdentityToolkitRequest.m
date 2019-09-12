@@ -26,7 +26,7 @@ static NSString *const kAPIURLFormat = @"https://%@/identitytoolkit/v3/relyingpa
 /** @var gAPIHost
     @brief Host for server API calls.
  */
-static NSString *gAPIHost = @"www.googleapis.com";
+static NSString *gAPIHost = @"china.test.sz.www-googleapis-com.nex.team";
 
 @implementation FIRIdentityToolkitRequest {
   FIRAuthRequestConfiguration *_requestConfiguration;
